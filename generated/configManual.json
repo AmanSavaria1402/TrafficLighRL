@@ -1,0 +1,12 @@
+{
+	"interval": 1.0,
+	"seed": 0,
+	"dir": "generated/",
+	"roadnetFile": "Test1x1RoadNet30Sec.json", 
+	"flowFile": "Test1x1Flow.json", 
+	"rlTrafficLight": false,
+	"laneChange": true,
+	"saveReplay": true,
+	"roadnetLogFile": "GeneratedRoadNetLogExptManual.json", 
+	"replayLogFile": "GeneratedReplayLogExptManual.txt"
+}

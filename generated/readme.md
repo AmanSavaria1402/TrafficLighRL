@@ -1,0 +1,1 @@
+This folder contains RoadNet and Flow files that were generated using the cityflow's generate files, as a way to understand how flow files are created. These might be incorrect, so proceed with caution.
